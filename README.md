@@ -16,5 +16,5 @@ Comes up with a list of possible words based off of your guesses so far
 
 ### how to use tl;dr
 
-There is no tl;dr. Read the steps, you cant possibly be so lazy as to skip the instructions to a script that lets you skip trying to solve a game for you
+There is no tl;dr. Read the steps, you cant possibly be so lazy as to skip the instructions to a script that lets you skip trying to solve a game
 Jesus Christ
